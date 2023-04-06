@@ -1,0 +1,37 @@
+/* General Css start */
+/*1rem = 16px*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+p ad    ding: 0.75rem 1.5rem;
+border-radius:       ;
+}
+
+.btn red{
+
+}
+.btn transparent {
+
+}
+a {
+    text-decoration: 0;
+}
+/* General Css finish */
+/* Nav bar start  */
+nav {
+    padding:24px 170px;
+    display:flex;
+    justify-content: space-between;
+}
+.logo_wrap span {
+
+}
+.menu {
+    display: flex;
+    list-style:none ;
+
+}
+/* Nav bar finish  */

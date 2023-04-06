@@ -1,0 +1,43 @@
+h1 {
+  color: rgb(2, 5, 6);background-color: blueviolet;
+  width: 400;
+  text-align: center;
+text-shadow: 3px 5px 10px black;
+}
+h2 {
+  color: aliceblue;
+  background-color: rgb(57, 1, 48);
+  padding-top: 20px;
+  font: size 24px;;
+  font-weight: 400;
+  letter-spacing: 5px;
+  word-spacing: 15px;
+  /*text-transform: none;*/
+  text-decoration: underline;
+}
+h1 {
+  # width: 700px;
+width: 500;
+}
+p {
+color: black;
+background-color: blue;
+width: 400px;
+text-align: center;
+/*line-height: 50px;*/
+border-style:solid;
+border-color: solid black;
+border-left:  5px solid burlywood;
+border-top: 5px solid gold;
+border-right: 5px solid green;
+border-bottom: 5px solid rgb(0, 0, 7); 
+/* border-radius: 30px; */
+transition: 1s;
+text-shadow: 3px 4px 10px black;
+}
+p:hover {
+  color:gold;
+  font-size: 30px;
+width: 1000px;
+
+}
