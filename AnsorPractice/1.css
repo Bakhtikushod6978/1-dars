@@ -1,0 +1,28 @@
+/* General CSS start */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+padding: 0.75 rem 1.75rem;
+break-before: 0.5rem;
+font-weight: 700;
+font-size: 1rem;
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FFFFFF;
+border: width 2px;
+border-style: solid;
+}
+
+.btn_red {
+background-color: #DE2E54;
+border-color: #DE2E54;
+}
+
+.btn_transparent {
+background-color: #fff;
+}
+/* General CSS finish */
